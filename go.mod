@@ -1,3 +1,3 @@
-module github.com/sparkvision69/primix
+module primix
 
 go 1.23.3
