@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"primix/http"
-	"primix/process"
+	"github.com/sparkvision69/primix/http"
+	"github.com/sparkvision69/primix/process"
 )
 
 func main() {
