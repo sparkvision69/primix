@@ -1,4 +1,4 @@
-module github.com/maheshpwtech/primix/cli
+module github.com/sparkvision69/primix/cli
 
 
 go 1.23.5
